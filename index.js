@@ -8,5 +8,6 @@ console.log(name)
 
 console.log("Height:")
 console.log(height)
-//console.log(parseInt(height) + 1)
+// if var height = "65" // String
+// console.log(parseInt(height) + 1)
 console.log(height + 1)
